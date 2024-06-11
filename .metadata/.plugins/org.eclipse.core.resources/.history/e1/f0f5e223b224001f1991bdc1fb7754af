@@ -1,0 +1,14 @@
+package Java_bean;
+
+public class Main {
+    public static void main(String[] args) {
+        Address a1 = new Address( 23);
+        Student s1 = new Student("Reena", 20, a1);
+
+        Address a2 = new Address( 456);
+        Student s2 = new Student("Harshita", 21, a2);
+
+        System.out.println("Student 1: Name - " + s1.getName() + ", Age - " + s1.getAge() + ", Address - " + s1.getAddress().getAddress());
+        System.out.println("Student 2: Name - " + s2.getName() + ", Age - " + s2.getAge() + ", Address - " + s2.getAddress().getAddress());
+    }
+}

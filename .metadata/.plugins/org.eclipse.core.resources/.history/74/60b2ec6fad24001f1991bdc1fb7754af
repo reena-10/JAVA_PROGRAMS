@@ -1,0 +1,10 @@
+
+public class Vehicle1 {
+
+	public static void main(String[] args) {
+		Vehicle V1 = new Vehicle();
+		e
+		
+	}
+
+}
