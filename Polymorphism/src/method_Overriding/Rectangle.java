@@ -1,5 +1,5 @@
 package method_Overriding;
-
+//derived class
 public class Rectangle extends Shape {
   private double width;
   private double height;

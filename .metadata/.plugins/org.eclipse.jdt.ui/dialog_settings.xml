@@ -26,7 +26,7 @@
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_X_ORIGIN" value="268"/>
 		<item key="DIALOG_Y_ORIGIN" value="199"/>
 		<item key="DIALOG_WIDTH" value="700"/>
 		<item key="DIALOG_HEIGHT" value="500"/>

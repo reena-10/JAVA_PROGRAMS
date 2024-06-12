@@ -2,6 +2,8 @@ package method_Overriding;
 
 public class Main {
    public static void main(String[]args) {
+	 //Create instances of Circle , Rectangle and Triangle.
+
 	  Circle circle = new Circle(8);
 	  System.out.println("Area of Cirlce:" +circle.calculateArea());
 	  
