@@ -1,6 +1,7 @@
 package inheritance;
-
-public class Appliance {
+//Example of IS A RELATIONSHIP
+// Single level Inheritance
+public class Appliance { //parent class
 	
 	private String brandName  ;
 	

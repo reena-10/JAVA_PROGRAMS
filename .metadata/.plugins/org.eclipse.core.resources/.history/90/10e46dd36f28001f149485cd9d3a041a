@@ -1,0 +1,20 @@
+package multilevel_inheritance;
+
+class Employee extends Person { // derived class of Person
+	 int employeeId;
+	 String department;
+	  
+	 void Display_Employee() {
+		 name ="Raj";
+		 age =45;
+		 department="HR";
+		 employeeId=123;
+		 System.out.println("Department =" +department);
+		 System.out.println("Employee ID= " +employeeId);
+	 }
+	 public static void main(String[]args) {
+		 Employee E1 = new Employee();
+		 E1.Display_Person();
+		 E1.Display_Employee();
+	 }
+}

@@ -1,0 +1,15 @@
+package multilevel_inheritance;
+
+public class Person { //Base class
+	
+		public String name ="Raj";
+		public int age=45;
+		
+			void Display_Person()
+		{ 
+
+			System.out.println("Details of Person\n");
+
+		}
+}
+ 

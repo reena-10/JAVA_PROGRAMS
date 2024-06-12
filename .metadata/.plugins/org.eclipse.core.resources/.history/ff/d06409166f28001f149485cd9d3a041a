@@ -1,0 +1,5 @@
+package multilevel_inheritance;
+
+public class Person {
+
+}

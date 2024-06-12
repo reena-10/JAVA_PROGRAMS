@@ -1,0 +1,5 @@
+package hierarchical_inheritance;
+
+public class Appliance {
+
+}

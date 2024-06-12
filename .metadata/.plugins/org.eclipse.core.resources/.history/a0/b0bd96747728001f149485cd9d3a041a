@@ -1,0 +1,6 @@
+package hierarchical_inheritance;
+
+class Refrigerator extends Appliance {
+	
+
+}
