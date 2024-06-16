@@ -1,1 +1,0 @@
-package hierarchical_inheritance;

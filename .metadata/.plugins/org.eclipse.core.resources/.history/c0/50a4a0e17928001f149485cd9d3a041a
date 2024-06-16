@@ -1,7 +1,0 @@
-package hierarchical_inheritance;
-
-public class Refrigerator extends Appliance {
- public int capacity;
- public int temperature;
-
- 

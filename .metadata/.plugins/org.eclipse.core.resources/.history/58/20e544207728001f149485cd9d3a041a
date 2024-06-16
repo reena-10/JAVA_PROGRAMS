@@ -1,7 +1,0 @@
-package hierarchical_inheritance;
-
-public class Appliance {
-  public String brand;
-  public String powerConsumption;
-  public boolean isOn;
-}
