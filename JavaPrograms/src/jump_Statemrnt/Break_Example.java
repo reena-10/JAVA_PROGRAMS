@@ -1,6 +1,6 @@
 package jump_Statemrnt;
 
-public class BreakStaement_Example {
+public class Break_Example {
 
 	public static void main(String[] args) {
     for(int i=0; i<=10; i++) {
@@ -9,6 +9,6 @@ public class BreakStaement_Example {
     		break;
     	}
     }
-	}
+}
 
 }
