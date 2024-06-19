@@ -15,7 +15,7 @@ public class Employee {
 		//default constructor
 		Employee(){};
 			
-		//paramterized constructor
+		//parameterized constructor
 		public Employee(int empolyeeid , String empolyeeName, String empolyeedepartment , int shift, int salary) 
 		{
 			

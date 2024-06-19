@@ -16,6 +16,17 @@ package access_modifier;
 	    public void displayType() {
 	        System.out.println("The type of the vehicle is: " + type);
 	    }
+	    public static void main(String[] args) {
+	        // Create an object of 'Vehicle' class
+	        Vehicle vehicle = new Vehicle("Car");
+
+	        // Accessing the public variable 'type'
+	        System.out.println("Vehicle type: " + vehicle.type);
+
+	        // Accessing the public method 'displayType()'
+	        vehicle.displayType();
+	    }
+
 	}
 
 	
