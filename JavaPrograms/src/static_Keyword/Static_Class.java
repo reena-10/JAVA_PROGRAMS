@@ -1,7 +1,7 @@
 package static_Keyword;
 
 public class Static_Class {
-private static String str ="Hellooooo ! ";
+private static String str ="Hellooooo! ";
 static class My2ndClass{
 	public void display() {
 		System.out.println(str);
