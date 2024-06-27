@@ -9,7 +9,7 @@ class Image implements Printable {
 
     @Override
     public void print() {
-        System.out.println("Printing image: " + filename);
+        System.out.println("Printing image: " +filename);
     }
 }
 
