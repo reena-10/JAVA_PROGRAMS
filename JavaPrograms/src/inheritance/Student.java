@@ -16,10 +16,11 @@ public class Student { //base class
 		  subject="BCA";
 		  System.out.println(rollno+" "+name+" "+subject);
  }
+  
 	  public static void main(String []args) {
 		  Reena r = new Reena();
 		  r.display();
 		  r.show();
 	  }
+  
   }
-
