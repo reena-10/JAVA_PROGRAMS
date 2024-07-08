@@ -16,12 +16,14 @@ public class StudentArray {
     students[4].getAddress().setPincode("54321");
 
     System.out.println("Update Data");
-    for (Student student : students) {
+ /*   for (Student student : students) {
         System.out.println("ID: " + student.getId() + ", Name: " + student.getName() +
                 ", Address: " + student.getAddress().getCity() + ", " +
                 student.getAddress().getState() + " " + student.getAddress().getPincode());
-    }
+    }*/
 
-
+for(Student s: students) {
+	System.out.println(s);
+}
 }
 }
