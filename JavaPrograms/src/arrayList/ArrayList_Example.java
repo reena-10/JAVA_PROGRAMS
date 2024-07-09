@@ -20,7 +20,7 @@ public class ArrayList_Example {
         // Sort the ArrayList in ascending order
         Collections.sort(numbers);
 
-        System.out.println("\nSorted ArrayList (ascending order):");
+        System.out.println("\nSorted ArrayList in ascending order:");
         System.out.println(numbers);
 
         // Reverse the ArrayList

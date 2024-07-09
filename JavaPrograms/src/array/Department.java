@@ -5,7 +5,7 @@ package array;
 public class Department {
    private int departmentid; 
    private String departmentname;
-public Department(int departmentid, String departmentname) {
+public Department(int departmentid, String departmentname, Professor professor) {
 	super();
 	this.departmentid = departmentid;
 	this.departmentname = departmentname;
