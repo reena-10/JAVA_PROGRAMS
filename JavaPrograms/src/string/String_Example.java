@@ -11,6 +11,6 @@ public class String_Example {
 	     ss=ss+s.charAt(j);
 		 System.out.println(ss);
 	 }
- }
-}
+   }
+  }
 }
