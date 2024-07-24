@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="aggregation.Address2"/>
+    <fullyQualifiedTypeName name="stack.Pop_Method"/>
 </qualifiedTypeNameHistroy>
