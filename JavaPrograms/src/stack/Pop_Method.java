@@ -20,7 +20,7 @@ public class Pop_Method {
     
     }  
     System.out.println();
-  //Remove element stacks
+    //Remove element stacks
 	String element = stack.pop();
 	
 	System.out.println("After pop method");

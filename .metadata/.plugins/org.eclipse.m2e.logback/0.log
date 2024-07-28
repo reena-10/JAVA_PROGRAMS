@@ -576,3 +576,37 @@ org.eclipse.core.runtime.CoreException: Launch configuration JUnitTesting refere
 2024-07-26 11:57:26,204 [Worker-24: Launching CalculationTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-07-26 11:57:26,208 [Worker-24: Launching CalculationTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-07-26 11:57:26,209 [Worker-24: Launching CalculationTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:21:43,549 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:21:43,550 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:21:43,552 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:21:43,553 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:27:14,764 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:27:14,765 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:27:14,766 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:27:14,768 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:35:13,667 [Worker-32: Launching CalculationTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:35:13,668 [Worker-32: Launching CalculationTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:35:13,671 [Worker-32: Launching CalculationTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:35:13,673 [Worker-32: Launching CalculationTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:41:52,316 [Worker-37: Launching CalculationTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:41:52,317 [Worker-37: Launching CalculationTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:41:52,322 [Worker-37: Launching CalculationTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:41:52,323 [Worker-37: Launching CalculationTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:49:12,023 [Worker-41: Launching ServiceTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:49:12,026 [Worker-41: Launching ServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:49:12,028 [Worker-41: Launching ServiceTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:49:12,028 [Worker-41: Launching ServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:49:45,173 [Worker-41: Launching ServiceTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:49:45,174 [Worker-41: Launching ServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:49:45,199 [Worker-41: Launching ServiceTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:49:45,200 [Worker-41: Launching ServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-26 12:57:44,683 [Worker-47: Creating project "JunitTest"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.maven:JunitTest:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\JunitTest\pom.xml.
+2024-07-26 12:57:45,078 [Worker-47: Creating project "JunitTest"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JunitTest/src/main/java
+2024-07-26 12:57:45,081 [Worker-47: Creating project "JunitTest"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JunitTest/src/main/resources
+2024-07-26 12:57:45,082 [Worker-47: Creating project "JunitTest"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JunitTest/src/test/java
+2024-07-26 12:57:45,082 [Worker-47: Creating project "JunitTest"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JunitTest/src/test/resources
+2024-07-26 12:57:45,085 [Worker-47: Creating project "JunitTest"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-1.8', falling back to workspace default
+2024-07-26 12:57:45,404 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:57:45,405 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-26 12:57:45,409 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-26 12:57:45,410 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
