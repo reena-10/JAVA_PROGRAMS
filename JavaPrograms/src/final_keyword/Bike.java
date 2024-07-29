@@ -1,15 +1,17 @@
 package final_keyword;
 
-public class Bike {
-  final int speedlimit ;
-  
-  Bike(){
-	  speedlimit=70;
-	  System.out.println(speedlimit);
+class Bike{  
+	  final int speedlimit;//blank final variable  
+	    
+	  Bike(){  
+	  speedlimit=70;  //initialize blank final variable
+	  System.out.println(speedlimit);  
+	  }  
 	  
-  }
-  public static void main(String args[]) {
-	  new Bike();
-  }
+	  public static void main(String args[]){  
+	    new Bike();  
+	 }  
+	}  
+		 
+
  
-}

@@ -1,5 +1,5 @@
 package static_Keyword;
-//Static method
+
 public class Student {
    int rollno;
    String name;
@@ -16,5 +16,6 @@ public class Student {
 	void display() {
 		System.out.println(rollno+" "+name+" "+college);
 	}
+	
    }
 
