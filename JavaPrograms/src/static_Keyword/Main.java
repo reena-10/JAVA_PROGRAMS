@@ -10,12 +10,12 @@ public class Main {
 	  System.out.println("Public methods must be called by creating objects");
   }
   //Main method
-	public static void main(String[] args) {
+  public static void main(String[] args) {
     myStaticMethod(); //Call the static method
     //myPublicMethod();    This would output an error
     
     Main myobj = new Main(); //Create an Object of Main
     myobj.myPublicMethod(); //Call the public method
-	}
+  }
 
 }
