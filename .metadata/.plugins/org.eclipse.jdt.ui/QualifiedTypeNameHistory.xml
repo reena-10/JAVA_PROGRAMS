@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="stack.Pop_Method"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
