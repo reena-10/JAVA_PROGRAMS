@@ -15,7 +15,7 @@ public class Recursion {
     		System.out.println(i+" ");
     	}
    }
-    
+    //print sum of digits
     public static int sum(int b) {
       if(b==0) {
     	  return 0;
