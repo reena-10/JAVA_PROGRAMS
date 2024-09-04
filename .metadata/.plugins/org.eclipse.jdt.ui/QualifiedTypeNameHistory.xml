@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Sum"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="builder_Design_Pattern.User.UserBuilder"/>
 </qualifiedTypeNameHistroy>
