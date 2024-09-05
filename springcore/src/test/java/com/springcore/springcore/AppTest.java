@@ -1,4 +1,4 @@
-package com.springcore;
+package com.springcore.springcore;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
