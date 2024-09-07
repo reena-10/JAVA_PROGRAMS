@@ -856,3 +856,820 @@ org.eclipse.core.runtime.CoreException: Launch configuration JUnitTesting refere
 2024-09-04 17:10:06,620 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
 2024-09-04 17:10:08,040 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
 2024-09-04 17:10:08,045 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 09:45:35,955 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-05 10:18:43,002 [Worker-29: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 10:18:43,007 [Worker-29: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 10:19:33,986 [Worker-32: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 10:19:33,990 [Worker-32: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 10:23:21,142 [Worker-32: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 10:23:21,147 [Worker-32: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 10:37:17,401 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-09-05 10:37:36,990 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-09-05 10:37:36,993 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-09-05 10:37:36,993 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-09-05 10:37:36,994 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-09-05 10:37:36,994 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-09-05 10:37:36,994 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-09-05 10:37:36,994 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-09-05 10:37:36,994 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-09-05 10:37:36,994 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-09-05 10:37:36,995 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-09-05 10:37:36,996 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-09-05 10:37:36,996 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-09-05 10:37:36,996 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-09-05 10:37:36,996 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-09-05 10:37:36,997 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-09-05 10:37:36,997 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-09-05 10:37:36,998 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-09-05 10:37:36,998 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-09-05 10:37:36,999 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-09-05 10:37:36,999 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-09-05 10:37:36,999 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-09-05 10:37:37,000 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-09-05 10:37:37,001 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-09-05 10:37:37,002 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-09-05 10:37:37,004 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-09-05 10:37:37,005 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-09-05 10:37:37,005 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [518])
+2024-09-05 10:37:37,006 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-09-05 10:37:37,006 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2024-09-05 10:37:37,006 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-09-05 10:37:37,006 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2024-09-05 10:37:37,007 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-09-05 10:37:37,007 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-09-05 10:37:37,007 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-09-05 10:37:37,007 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-09-05 10:37:37,007 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-09-05 10:37:37,007 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-09-05 10:37:37,009 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-09-05 10:37:37,009 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-09-05 10:37:37,009 [Worker-37: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-09-05 10:37:37,013 [Worker-37: Launching springcore] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Users\rajkumar\CodeWithReena\springcore":
+2024-09-05 10:37:37,014 [Worker-37: Launching springcore] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-09-05 10:37:37,435 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\springcore\pom.xml.
+2024-09-05 10:37:37,677 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 10:37:37,681 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 10:37:38,989 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 10:37:38,992 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 10:45:52,227 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 10:45:52,231 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 10:47:38,898 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 10:47:38,902 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 10:48:09,386 [Worker-42: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 10:48:09,395 [Worker-42: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 10:48:09,403 [Worker-42: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 10:56:22,045 [Worker-45: Creating project "FirstSpring"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:FirstSpring:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\FirstSpring\pom.xml.
+2024-09-05 10:56:22,346 [Worker-45: Creating project "FirstSpring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstSpring/src/main/java
+2024-09-05 10:56:22,347 [Worker-45: Creating project "FirstSpring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstSpring/src/main/resources
+2024-09-05 10:56:22,348 [Worker-45: Creating project "FirstSpring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstSpring/src/test/java
+2024-09-05 10:56:22,349 [Worker-45: Creating project "FirstSpring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstSpring/src/test/resources
+2024-09-05 10:56:22,349 [Worker-45: Creating project "FirstSpring"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-1.8', falling back to workspace default
+2024-09-05 10:56:22,744 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 10:56:22,749 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 10:56:22,761 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 10:56:22,762 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:07:04,893 [Worker-50: Creating project "SpringFirst"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:SpringFirst:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\SpringFirst\pom.xml.
+2024-09-05 11:07:05,143 [Worker-50: Creating project "SpringFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringFirst/src/main/java
+2024-09-05 11:07:05,143 [Worker-50: Creating project "SpringFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringFirst/src/main/resources
+2024-09-05 11:07:05,143 [Worker-50: Creating project "SpringFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringFirst/src/test/java
+2024-09-05 11:07:05,143 [Worker-50: Creating project "SpringFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringFirst/src/test/resources
+2024-09-05 11:07:05,144 [Worker-50: Creating project "SpringFirst"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-1.8', falling back to workspace default
+2024-09-05 11:07:05,361 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:07:05,363 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:07:05,365 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:07:05,365 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:07:06,509 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:07:06,512 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:07:06,519 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:07:06,520 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:15:52,976 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:SpringFirst:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\SpringFirst\pom.xml.
+2024-09-05 11:15:53,363 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.22.RELEASE/spring-context-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,373 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.22.RELEASE/spring-context-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,450 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.22.RELEASE/spring-aop-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,461 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.22.RELEASE/spring-aop-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,603 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.22.RELEASE/spring-beans-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,614 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.22.RELEASE/spring-beans-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,700 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.22.RELEASE/spring-core-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,711 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.22.RELEASE/spring-core-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,788 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.22.RELEASE/spring-jcl-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,796 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.22.RELEASE/spring-jcl-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,882 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.22.RELEASE/spring-expression-5.2.22.RELEASE.pom
+2024-09-05 11:15:53,892 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.22.RELEASE/spring-expression-5.2.22.RELEASE.pom
+2024-09-05 11:15:54,009 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.22.RELEASE/spring-context-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,182 [Worker-50: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.22.RELEASE/spring-context-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,267 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.22.RELEASE/spring-aop-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,454 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.22.RELEASE/spring-core-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,494 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.22.RELEASE/spring-beans-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,497 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.22.RELEASE/spring-expression-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,500 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.22.RELEASE/spring-jcl-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,539 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.22.RELEASE/spring-jcl-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,568 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.22.RELEASE/spring-aop-5.2.22.RELEASE.jar
+2024-09-05 11:15:55,960 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.22.RELEASE/spring-expression-5.2.22.RELEASE.jar
+2024-09-05 11:15:56,510 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.22.RELEASE/spring-core-5.2.22.RELEASE.jar
+2024-09-05 11:15:56,571 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.22.RELEASE/spring-beans-5.2.22.RELEASE.jar
+2024-09-05 11:15:56,702 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:15:56,703 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:15:56,706 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:15:56,707 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:15:57,923 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:15:57,923 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:15:57,926 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:15:57,926 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:15:57,933 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.22.RELEASE/spring-context-5.2.22.RELEASE-sources.jar
+2024-09-05 11:15:58,786 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.22.RELEASE/spring-context-5.2.22.RELEASE-sources.jar
+2024-09-05 11:15:58,789 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.22.RELEASE
+2024-09-05 11:15:59,264 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.22.RELEASE/spring-aop-5.2.22.RELEASE-sources.jar
+2024-09-05 11:15:59,611 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.22.RELEASE/spring-aop-5.2.22.RELEASE-sources.jar
+2024-09-05 11:15:59,616 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.22.RELEASE
+2024-09-05 11:15:59,882 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.22.RELEASE/spring-beans-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:00,629 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.22.RELEASE/spring-beans-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:00,632 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.22.RELEASE
+2024-09-05 11:16:00,953 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.22.RELEASE/spring-core-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:01,549 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.22.RELEASE/spring-core-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:01,552 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.22.RELEASE
+2024-09-05 11:16:02,125 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.22.RELEASE/spring-jcl-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:02,136 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.22.RELEASE/spring-jcl-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:02,138 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.22.RELEASE
+2024-09-05 11:16:02,418 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.22.RELEASE/spring-expression-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:02,717 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.22.RELEASE/spring-expression-5.2.22.RELEASE-sources.jar
+2024-09-05 11:16:02,723 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.22.RELEASE
+2024-09-05 11:17:52,493 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:SpringFirst:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\SpringFirst\pom.xml.
+2024-09-05 11:17:52,656 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:17:52,657 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:17:52,660 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:17:52,662 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:17:53,920 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:17:53,921 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:17:53,923 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:17:53,924 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:25:14,261 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:SpringFirst:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\SpringFirst\pom.xml.
+2024-09-05 11:25:14,376 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:25:14,378 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:25:14,381 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:25:14,381 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:29:59,894 [Worker-65: Creating project "springcore"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\springcore\pom.xml.
+2024-09-05 11:30:00,062 [Worker-65: Creating project "springcore"] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:397)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:255)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.run(ProjectConfigurationManager.java:523)
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:29)
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.enableMavenNature(ProjectConfigurationManager.java:519)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createSimpleProject(ProjectConfigurationManager.java:709)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$2.doCreateMavenProjects(MavenProjectWizard.java:226)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:30:00,063 [Worker-65: Creating project "springcore"] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:404)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:397)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:255)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.run(ProjectConfigurationManager.java:523)
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:29)
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.enableMavenNature(ProjectConfigurationManager.java:519)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createSimpleProject(ProjectConfigurationManager.java:709)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$2.doCreateMavenProjects(MavenProjectWizard.java:226)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:30:00,073 [Worker-65: Creating project "springcore"] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:398)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:255)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.run(ProjectConfigurationManager.java:523)
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:29)
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.enableMavenNature(ProjectConfigurationManager.java:519)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createSimpleProject(ProjectConfigurationManager.java:709)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$2.doCreateMavenProjects(MavenProjectWizard.java:226)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:30:00,133 [Worker-65: Creating project "springcore"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2024-09-05 11:30:00,133 [Worker-65: Creating project "springcore"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springcore/src/main/resources
+2024-09-05 11:30:00,133 [Worker-65: Creating project "springcore"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2024-09-05 11:30:00,134 [Worker-65: Creating project "springcore"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springcore/src/test/resources
+2024-09-05 11:30:00,134 [Worker-65: Creating project "springcore"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-1.8', falling back to workspace default
+2024-09-05 11:30:00,406 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:30:00,407 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 11:30:00,409 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-05 11:30:00,410 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 11:30:18,981 [Worker-64: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:30:18,983 [Worker-64: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:30:18,988 [Worker-64: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:31:51,730 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-09-05 11:31:51,731 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-09-05 11:31:51,731 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-09-05 11:31:51,731 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-09-05 11:31:51,731 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-09-05 11:31:51,732 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-09-05 11:31:51,733 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-09-05 11:31:51,734 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [518])
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-09-05 11:31:51,735 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2024-09-05 11:31:51,736 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-09-05 11:31:51,736 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-09-05 11:31:51,736 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-09-05 11:31:51,736 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-09-05 11:31:51,736 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-09-05 11:31:51,737 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-09-05 11:31:51,737 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-09-05 11:31:51,737 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-09-05 11:31:51,737 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-09-05 11:31:51,737 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\rajkumar\AppData\Local\Temp\m2e-archetypeGenerator12566859038512331637":
+2024-09-05 11:31:51,739 [Worker-67: Launching mavenrun-b6e37cc3-1050-4398-b6b1-fc04a9929e02] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.springcore -DartifactId=springcore -Dversion=0.0.1-SNAPSHOT -Dpackage=com.springcore.springcore -DoutputDirectory=D:\Users\rajkumar\CodeWithReena -Dstyle.color=always -U archetype:generate
+2024-09-05 11:41:08,113 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Users\rajkumar\CodeWithReena\springcore\pom.xml
+2024-09-05 11:41:08,302 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\springcore\pom.xml.
+2024-09-05 11:41:08,523 [Worker-66: Creating maven-archetype-quickstart] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:397)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:255)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:41:08,525 [Worker-66: Creating maven-archetype-quickstart] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:404)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:397)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:255)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:41:08,528 [Worker-66: Creating maven-archetype-quickstart] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:398)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:255)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 11:41:08,600 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2024-09-05 11:41:08,600 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springcore/src/main/resources
+2024-09-05 11:41:08,608 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2024-09-05 11:41:08,608 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springcore/src/test/resources
+2024-09-05 11:41:08,608 [Worker-66: Creating maven-archetype-quickstart] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-1.8', falling back to workspace default
+2024-09-05 11:41:08,640 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-09-05 11:41:08,932 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 11:41:08,936 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 11:44:43,059 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\springcore\pom.xml.
+2024-09-05 11:44:43,563 [Worker-67: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.pom
+2024-09-05 11:44:43,568 [Worker-67: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.pom
+2024-09-05 11:44:43,769 [Worker-67: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.pom
+2024-09-05 11:44:43,777 [Worker-67: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.pom
+2024-09-05 11:44:43,965 [Worker-67: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.jar
+2024-09-05 11:44:44,609 [Worker-67: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.jar
+2024-09-05 11:44:44,789 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.jar
+2024-09-05 11:44:44,801 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.jar
+2024-09-05 11:44:44,940 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 11:44:44,942 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 11:44:46,049 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar
+2024-09-05 11:44:46,370 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 11:44:46,373 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 11:44:46,756 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar
+2024-09-05 11:44:46,761 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.22
+2024-09-05 11:44:46,983 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22-sources.jar
+2024-09-05 11:44:46,993 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22-sources.jar
+2024-09-05 11:44:46,998 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.22
+2024-09-05 11:46:58,026 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 11:46:58,028 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 11:49:54,139 [Worker-70: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 11:49:54,142 [Worker-70: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 11:51:27,934 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 11:51:27,936 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 12:07:10,304 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 12:07:10,305 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 12:11:46,340 [Worker-76: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 12:11:46,342 [Worker-76: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 12:12:49,318 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-09-05 12:12:49,319 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-09-05 12:12:49,320 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-09-05 12:12:49,321 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-09-05 12:12:49,322 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-09-05 12:12:49,323 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-09-05 12:12:49,324 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-09-05 12:12:49,324 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-09-05 12:12:49,324 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [518])
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-09-05 12:12:49,325 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-09-05 12:12:49,326 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-09-05 12:12:49,326 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-09-05 12:12:49,326 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-09-05 12:12:49,326 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-09-05 12:12:49,326 [Worker-76: Launching springcore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rajkumar\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-09-05 12:12:49,328 [Worker-76: Launching springcore] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Users\rajkumar\CodeWithReena\springcore":
+2024-09-05 12:12:49,329 [Worker-76: Launching springcore] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-09-05 12:12:49,607 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ D:\Users\rajkumar\CodeWithReena\springcore\pom.xml.
+2024-09-05 12:12:49,735 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\main\resources
+2024-09-05 12:12:49,738 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\rajkumar\CodeWithReena\springcore\src\test\resources
+2024-09-05 12:19:47,960 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 12:19:47,963 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 12:23:06,467 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-05 12:23:06,469 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-05 12:28:33,750 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 12:28:33,752 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 12:28:33,757 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 12:28:33,758 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 12:28:33,759 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 12:28:33,772 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references non-existing project springcore.
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references non-existing project springcore.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-05 16:58:11,639 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-07 14:23:26,692 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-07 14:23:27,067 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.

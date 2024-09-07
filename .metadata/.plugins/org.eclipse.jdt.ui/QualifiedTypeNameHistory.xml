@@ -9,4 +9,6 @@
     <fullyQualifiedTypeName name="Sum"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="builder_Design_Pattern.User.UserBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
 </qualifiedTypeNameHistroy>
