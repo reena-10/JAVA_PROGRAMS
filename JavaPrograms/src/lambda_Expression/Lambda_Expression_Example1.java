@@ -1,6 +1,6 @@
 package lambda_Expression;
-
-public class Lambda_Expression_Example {
+//Example 1
+public class Lambda_Expression_Example1 {
 
 	public static void main(String[] args) {
     int width = 10;
