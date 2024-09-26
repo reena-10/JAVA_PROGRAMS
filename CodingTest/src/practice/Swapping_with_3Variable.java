@@ -1,6 +1,6 @@
 package practice;
 
-public class Swapping {
+public class Swapping_with_3Variable {
 
 	static void swap(int m , int n) {
 		int temp =m;
