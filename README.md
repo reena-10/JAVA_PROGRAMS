@@ -1,4 +1,4 @@
-*CONTENT
+# CONTENT
 
 This repository contains a variety of Java programs, including:
 
@@ -9,11 +9,11 @@ This repository contains a variety of Java programs, including:
 3) Data Structures and Algorithms
    : Java implementations of various data structures such as arrays, linked lists, stacks, queues, and algorithms such as sorting, searching, and graph traversal.
    
-*GETTING STARTED
+# GETTING STARTED
    
 To get started with this repository, simply clone or download the repository and import the projects into your favorite Java IDE. You can then run the programs and explore the code to learn more about Java programming.
 
-*CONTRIBUTING
+# CONTRIBUTING
 
 If you'd like to contribute to this repository, please fork the repository and create a pull request with your changes. I'd be happy to review and merge your contributions.
 
@@ -22,6 +22,6 @@ If you'd like to contribute to this repository, please fork the repository and c
 
 I hope you find this repository helpful!
 
-Thank You :)
+# Thank You :)
 
 
