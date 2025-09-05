@@ -1,4 +1,5 @@
 package Easy_Questions;
+
 import java.util.Scanner;
 public class Second_largest_Number {
 
