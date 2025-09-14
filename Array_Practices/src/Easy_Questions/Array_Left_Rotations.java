@@ -14,5 +14,5 @@ public class Array_Left_Rotations {
 	for(int x :arr) {
 		System.out.println(x +" ");
 	}
-	}
+ }
 }

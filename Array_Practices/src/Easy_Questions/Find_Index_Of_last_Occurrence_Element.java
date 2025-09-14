@@ -5,7 +5,7 @@ public class Find_Index_Of_last_Occurrence_Element {
 	
     static int findLastOccurrence(int [] arr, int target) {
     	
-    	for(int i=arr.length-1; i>=0; i++) {
+    	for(int i=arr.length-1; i>=0; i--) {
     		if(arr[i]==target) {
     			return i;//return as soon as we find
     		}
@@ -14,8 +14,8 @@ public class Find_Index_Of_last_Occurrence_Element {
     }
 	
      public static void main(String[] args) {
-    	 int arr [] = {1,3,5,3,7,9,3};
-    	 int target = 3;
+    	 int arr [] = {1,3,9,5,3,7,9,3};
+    	 int target = 9;
     	 
     	 int index = findLastOccurrence(arr,target);
     	 
